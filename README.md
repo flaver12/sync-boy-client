@@ -1,7 +1,7 @@
 # Sync Boy Client
 
 > Windows Build: [![Build status](https://ci.appveyor.com/api/projects/status/yebj1vnl775mbwgl?svg=true)](https://ci.appveyor.com/project/flaver12/sync-boy-client) .   
-> Linux and Mac build: ![Build status](https://travis-ci.org/flaver12/sync-boy-client.svg?branch=master)
+> Linux and Mac build: [![Build Status](https://travis-ci.com/flaver12/sync-boy-client.svg?branch=master)](https://travis-ci.com/flaver12/sync-boy-client)
 
 ## What is Sync Boy? 
 Sync Boy is a syncer for ArmA 3. 

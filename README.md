@@ -1,6 +1,7 @@
 # sync
 
-> An electron-vue project
+> Windows Build: [![Build status](https://ci.appveyor.com/api/projects/status/yebj1vnl775mbwgl?svg=true)](https://ci.appveyor.com/project/flaver12/sync-boy-client) .   
+> Linux and Mac build: ![Build status](https://travis-ci.org/flaver12/sync-boy-client.svg?branch=master)
 
 #### Build Setup
 

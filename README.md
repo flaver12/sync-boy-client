@@ -1,19 +1,24 @@
-# sync
+# Sync Boy Client
 
 > Windows Build: [![Build status](https://ci.appveyor.com/api/projects/status/yebj1vnl775mbwgl?svg=true)](https://ci.appveyor.com/project/flaver12/sync-boy-client) .   
 > Linux and Mac build: ![Build status](https://travis-ci.org/flaver12/sync-boy-client.svg?branch=master)
+
+## What is Sync Boy? 
+Sync Boy is a syncer for ArmA 3. 
+The main diference is that you dont need a Server to save your repository. 
+You only need a Account and you good to go, its a sync in a cloud. 
 
 #### Build Setup
 
 ``` bash
 # install dependencies
-npm install
+yarn install
 
 # serve with hot reload at localhost:9080
-npm run dev
+yarn dev
 
 # build electron application for production
-npm run build
+yarn build
 
 
 ```
